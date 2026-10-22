@@ -1,0 +1,13 @@
+id,data,fornecedor,servico,produto,quantidade,nf,op,corrida,responsavel,observacao,criado_em,criado_por,atualizado_em
+ENV-000001,2026-10-14,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,25,162943,954884,,Willians Torres,,2026-10-22 15:20:39,willians.silva,2026-10-22 15:21:27 (willians.silva)
+ENV-000002,2026-10-15,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,33,163046,954881,,Willians Torres,,2026-10-22 15:21:00,willians.silva,2026-10-22 15:21:16 (willians.silva)
+ENV-000003,2026-10-19,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,14,163089,954881,,Willians Torres,,2026-10-22 15:21:56,willians.silva,
+ENV-000004,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,33,163144,954881,,Willians Torres,,2026-10-22 15:22:16,willians.silva,
+ENV-000005,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,19,163200,,,Willians Torres,,2026-10-22 15:22:42,willians.silva,
+ENV-000006,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,17,163239,,,Willians Torres,,2026-10-22 15:22:51,willians.silva,
+ENV-000007,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,2,163241,,,Willians Torres,,2026-10-22 15:23:01,willians.silva,
+ENV-000008,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,17,163325,,,Willians Torres,,2026-10-22 15:23:16,willians.silva,
+ENV-000009,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,48,163384,,,Willians Torres,,2026-10-22 15:23:25,willians.silva,
+ENV-000010,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,1,163384,,,Willians Torres,,2026-10-22 15:23:31,willians.silva,
+ENV-000011,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,43,163487,,,Willians Torres,,2026-10-22 15:23:38,willians.silva,
+ENV-000012,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,52,163513,,,Willians Torres,,2026-10-22 15:23:46,willians.silva,

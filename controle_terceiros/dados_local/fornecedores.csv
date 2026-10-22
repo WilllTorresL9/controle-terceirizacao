@@ -1,0 +1,7 @@
+id,nome,razao_social,cnpj,contato,telefone,email,cidade,servicos,lead_time_dias,ativo,observacoes,criado_em,criado_por,atualizado_em
+FOR-000001,LOTUS,,,,,,,Usinagem de caneca bruta,,Sim,,2026-10-22 15:15:39,sistema,
+FOR-000002,MARBOM,,,,,,,Usinagem de caneca bruta,,Sim,,2026-10-22 15:15:39,sistema,
+FOR-000003,LEMOR,,,,,,,Usinagem de caneca bruta,,Sim,,2026-10-22 15:15:39,sistema,
+FOR-000004,DELAVI,,,,,,,Usinagem de caneca bruta,,Sim,,2026-10-22 15:15:39,sistema,
+FOR-000005,UNIFORJA,,,,,,,Usinagem de perfil acabado,,Sim,,2026-10-22 15:15:39,sistema,
+FOR-000006,MNG,,,,,,,Usinagem de perfil acabado,,Sim,,2026-10-22 15:15:39,sistema,

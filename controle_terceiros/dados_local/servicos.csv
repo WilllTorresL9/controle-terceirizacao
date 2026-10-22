@@ -1,0 +1,3 @@
+id,nome,descricao,ativo,criado_em,criado_por,atualizado_em
+SRV-000001,Usinagem de caneca bruta,Canecas brutas enviadas para usinagem,Sim,2026-10-22 15:15:39,sistema,
+SRV-000002,Usinagem de perfil acabado,Canecas ogivadas para usinagem do perfil acabado,Sim,2026-10-22 15:15:39,sistema,

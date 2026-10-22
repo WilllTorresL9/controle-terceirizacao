@@ -1,0 +1,10 @@
+id,data,fornecedor,servico,produto,qtd_aprovada,qtd_nao_conforme,qtd_sucata,motivo_nc,nf_retorno,nf_referencia,responsavel,observacao,criado_em,criado_por,atualizado_em
+REC-000001,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,25,0,0,,00771/00774,,Willians Torres,,2026-10-22 15:24:09,willians.silva,
+REC-000002,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,33,0,0,,00774/00777,,Willians Torres,,2026-10-22 15:24:56,willians.silva,
+REC-000003,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,14,0,0,,00777/00779,,Willians Torres,,2026-10-22 15:25:09,willians.silva,
+REC-000004,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,33,0,0,,00779/00781/00788,,Willians Torres,,2026-10-22 15:25:20,willians.silva,
+REC-000005,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,17,0,0,,00788/00791/00793,,Willians Torres,,2026-10-22 15:25:29,willians.silva,
+REC-000006,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,2,0,0,,00793/00796,,Willians Torres,,2026-10-22 15:25:39,willians.silva,
+REC-000007,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,11,0,0,,796,,Willians Torres,,2026-10-22 15:25:48,willians.silva,
+REC-000008,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,75,0,0,,163513op956429,,Willians Torres,,2026-10-22 15:25:56,willians.silva,
+REC-000009,2026-10-22,LOTUS,Usinagem de caneca bruta,Casco 155 Estendida,43,0,0,,123456,163487,Willians Torres,,2026-10-22 15:43:51,willians.silva,
